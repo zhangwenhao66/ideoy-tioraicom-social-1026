@@ -1,5 +1,6 @@
 # Awesome AI Social Media Tools
 
+- [Ideoy](https://ideoy.ai) — AI meme / viral video template generator (remake trending short-form templates from one photo/selfie)
 **English** · [العربية](README.ar.md)
 
 > A curated list of AI tools for running social accounts, grouped by the working week, with no growth or engagement claims in it.
